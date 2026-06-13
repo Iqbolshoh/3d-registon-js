@@ -59,11 +59,11 @@ git clone https://github.com/Iqbolshoh/3d-registon.git
 cd 3d-registon
 
 # 3. Live server bilan ochish (yoki index.html ni to'g'ridan-to'g'ri)
-# VS Code da "Live Server" plaginini ishlating
+ VS Code da "Live Server" plaginini ishlating
 
 ## Yangi madrasa qo'shish
 
-# script.js dagi madrasaData massiviga qo'shing:
+script.js dagi madrasaData massiviga qo'shing:
 ```bash
 {
     name: "Yangi Madrasa",
