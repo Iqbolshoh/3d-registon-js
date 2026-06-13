@@ -55,10 +55,10 @@ ko'rish, aylantirish va ular haqida ma'lumot olish imkoniyatini beradi.
 git clone https://github.com/Iqbolshoh/3d-registon.git
 ```
 
-# 2. Papkaga o'tish
+## 2. Papkaga o'tish
 cd 3d-registon
 
-# 3. Live server bilan ochish (yoki index.html ni to'g'ridan-to'g'ri)
+## 3. Live server bilan ochish (yoki index.html ni to'g'ridan-to'g'ri)
  VS Code da "Live Server" plaginini ishlating
 
 ## Yangi madrasa qo'shish
